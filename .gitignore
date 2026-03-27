@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bmp
+colorful_test*.png
+*:Zone.Identifier
+スクリーンショット*.png
